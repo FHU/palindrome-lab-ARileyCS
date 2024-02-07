@@ -18,5 +18,3 @@ Notes
 1. An empty string is not a palindrome
 2. Case does not matter
 3. White spaces should not be taken into consideration
-
-
