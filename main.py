@@ -15,9 +15,10 @@ def palindrome(word):
 
 #YOUR CODE GOES HERE
 
-
-user_input = input().strip()
+'''
+user_input = input()
+user_input = user_input.strip()
 user_input = "".join(user_input.split())
 
 if len(user_input) > 0:
-    print(palindrome(user_input.lower()))
+    print(palindrome(user_input.lower()))'''
