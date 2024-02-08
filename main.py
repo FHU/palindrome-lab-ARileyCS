@@ -12,7 +12,7 @@ def palindrome(word):
             return False
     return True
 
-#comment to commit
+
 #YOUR CODE GOES HERE
 
 
